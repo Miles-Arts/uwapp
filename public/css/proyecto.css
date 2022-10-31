@@ -1,0 +1,14 @@
+.app__imagen__prototipo {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    justify-content: center;
+
+}
+
+/*.app__imagen__foto {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}*/

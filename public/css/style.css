@@ -64,6 +64,7 @@
     align-items: center;
     justify-content: center;
     font-weight: bold;
+    position: relative;
     color: #734B3D;
     height: 40px;
     background: #A2CDF2;
