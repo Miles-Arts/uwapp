@@ -1,14 +1,18 @@
 .app__imagen__prototipo {
+    height: 100%;
+    width: 100%;
     display: flex;
     flex-direction: column;
     margin-top: 50px;
-    margin-bottom: 50px;
-    justify-content: center;
+    margin-bottom: 30%;
+    align-items: center;
+   
 
 }
 
-/*.app__imagen__foto {
+.app__imagen__foto {
+    width: 800px;
     display: flex;
     flex-direction: column;
-    width: 50%;
-}*/
+    
+}

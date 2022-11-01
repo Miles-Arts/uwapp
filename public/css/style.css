@@ -48,8 +48,9 @@
 
 .app__cuerpo {
     width: 100%;
-    height: 98%;
+    height: 100%;
     background: #734B3D;
+  
 }
 
 .app__prototipo {
@@ -68,6 +69,8 @@
     color: #734B3D;
     height: 40px;
     background: #A2CDF2;
+    
+    
 
 }
 
